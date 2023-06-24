@@ -1,3 +1,5 @@
+# bu test uchun
+
 while True:
     try:
         num1 = int(input("Enter a first number: "))
